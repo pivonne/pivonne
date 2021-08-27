@@ -3,7 +3,8 @@
 
 ### HOLA COMPAÑEROS 👋
 
-###Bienvenidos a mi perfil  🦋
+### Bienvenidos a mi perfil
+
 👋​💻​🦋​💻​
 
 Mi nombre es Ana Ivonne Pérez Mora, estudio actualmente una ingenieria en Tecnologias de la informacion y comunicaciones en el Instituto Tecnologico de Tijuana
