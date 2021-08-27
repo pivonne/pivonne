@@ -22,29 +22,15 @@ H O R A R I O
 
 |  Hora |                      Lunes                     |                     Martes                     |                    Miercoles                   |                     Jueves                     |                     Viernes                    |
 |:-----:|:----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
-| 11-12 |            Administracion gerencial            |            Administracion gerencial            |            Administracion gerencial            |            Administracion gerencial            |                                                |
-| 12-1  |                                                |                                                |                                                |                                                |                                                |
-| 1-2   |                                                |                                                |                                                |                                                |                                                |
-| 2-3   | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación |
-| 3-4   |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |                                                |
-| 4-5   |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |
-| 5-6   |          Arquitectura de computadoras          |          Arquitectura de computadoras          |          Arquitectura de computadoras          |          Arquitectura de computadoras          |                                                |
-| 6-7   |           Taller de investigación II           |           Taller de investigación II           |           Taller de investigación II           |           Taller de investigación II           |                                                |
-| 7-8   |                                                |            Negocios electronicos I             |                                                |            Negocios electronicos I             |                                                |
-| 8-9   |                                                |            Negocios electronicos I             |                                                |            Negocios electronicos I             |                                                |
+|11-12 |            Administracion gerencial            |            Administracion gerencial            |            Administracion gerencial            |            Administracion gerencial            |                                                |
+|12-1  |                                                |                                                |                                                |                                                |                                                |
+|1-2   |                                                |                                                |                                                |                                                |                                                |
+|2-3   | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación |
+|3-4   |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |                                                |
+|4-5   |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |
+|5-6   |          Arquitectura de computadoras          |          Arquitectura de computadoras          |          Arquitectura de computadoras          |          Arquitectura de computadoras          |                                                |
+|6-7   |           Taller de investigación II           |           Taller de investigación II           |           Taller de investigación II           |           Taller de investigación II           |                                                |
+|7-8   |                                                |            Negocios electronicos I             |                                                |            Negocios electronicos I             |                                                |
+|8-9   |                                                |            Negocios electronicos I             |                                                |            Negocios electronicos I             |                                                |
 
 
-<!-
-**pivonne/pivonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
