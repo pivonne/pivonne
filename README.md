@@ -3,7 +3,12 @@
 
 ### HOLA COMPAÑEROS 👋
 
+###Bienvenidos a mi perfil  🦋
+👋​💻​🦋​💻​
 
+Mi nombre es Ana Ivonne Pérez Mora, estudio actualmente una ingenieria en Tecnologias de la informacion y comunicaciones en el Instituto Tecnologico de Tijuana
+
+👋​💻​🦋​💻​
 <!--
 **pivonne/pivonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
