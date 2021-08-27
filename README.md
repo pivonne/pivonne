@@ -19,6 +19,18 @@ Mi nombre es Ana Ivonne Pérez Mora, estudio actualmente una ingenieria en Tecno
 Me gusta mucho cantar 🎤, bailar 💃, las peliculas de suspenso y terror 📽️. Pero sobre todo me gusta mucho aprender cosas nuevas 🔭
 
 
+|   Hora  |                      Lunes                     |                     Martes                     |                    Miercoles                   |                     Jueves                     |                     Viernes                    |
+|:-------:|:----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
+| 11 - 12 |            Administracion gerencial            |            Administracion gerencial            |            Administracion gerencial            |            Administracion gerencial            |                                                |
+| 12 - 1  |                                                |                                                |                                                |                                                |                                                |
+|   1-2   |                                                |                                                |                                                |                                                |                                                |
+|   2-3   | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación | Análisis de señales y sistemas de comunicación |
+|   3-4   |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |           Ingenieria del conocimiento          |                                                |
+|   4-5   |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |               Computo distribuido              |
+|   5-6   |          Arquitectura de computadoras          |          Arquitectura de computadoras          |          Arquitectura de computadoras          |          Arquitectura de computadoras          |                                                |
+|   6-7   |           Taller de investigación II           |           Taller de investigación II           |           Taller de investigación II           |           Taller de investigación II           |                                                |
+|   7-8   |                                                |             Negocios electronicos I            |                                                |             Negocios electronicos I            |                                                |
+|   8-9   |                                                |             Negocios electronicos I            |                                                |             Negocios electronicos I            |                                                |
 <!--
 **pivonne/pivonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
