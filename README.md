@@ -11,8 +11,13 @@ Mi nombre es Ana Ivonne Pérez Mora, estudio actualmente una ingenieria en Tecno
 
 👋​💻​🦋​💻​
 
+
 ✨ GUSTOS ✨
+
+
 Me gusta mucho cantar 🎤, bailar 💃, las peliculas de suspenso y terror 📽️. Pero sobre todo me gusta mucho aprender cosas nuevas 🔭
+
+
 <!--
 **pivonne/pivonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
