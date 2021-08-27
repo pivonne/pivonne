@@ -1,6 +1,6 @@
-![Alt Text](https://r67.cooltext.com/rendered/cooltext391717698861734.gif)
 
 ### Hi there 👋
+![](https://images.cooltext.com/5549017.png)
 
 <!--
 **pivonne/pivonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
